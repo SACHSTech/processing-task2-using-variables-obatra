@@ -13,7 +13,7 @@ public class Sketch extends PApplet {
 
   /** 
    * Called once at the beginning of execution.  Add initial set up
-   * values here i.e background, stroke, fill etc.
+   * values here i.e background, stroke, fill etc.  test
    */
   public void setup() {
 	// grass/sky   
