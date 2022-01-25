@@ -8,7 +8,7 @@ public class Sketch extends PApplet {
    */
   public void settings() {
 	// put your size call here
-    size(600, 600);
+    size(500, 500);
   }
 
   /** 
@@ -37,7 +37,7 @@ public class Sketch extends PApplet {
 	 // roof
 	 noStroke();
 	 fill(242,223,180);
-	 triangle((float)(width/3.4),height/4,(float)(width/1.6),height/4,(float)(width/2.18),height/8);
+	 triangle((float)(width/3.4),height/4,(float)(width/1.45),height/4,(float)(width/2.18),height/8);
 	 // door
 	 noStroke();
 	 fill(0,0,0);
